@@ -18,9 +18,8 @@
 
 
 
+![Screenshot (170)](https://github.com/SatyaIndraDev/KarKhanaAssignment/assets/112754841/d1ae33b4-ddc3-4870-9299-7702647e17f2)
 
-
-![Screenshot (168)](https://github.com/SatyaIndraDev/Buy-Now-BE/assets/112754841/d90a0f5f-78e8-4365-ba65-dfc2a515eedd)
 
 Deployed Link
 https://courageous-hotteok-ea7ca6.netlify.app/
