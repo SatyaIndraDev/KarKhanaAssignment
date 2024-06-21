@@ -5,6 +5,7 @@
 - Remove from Cart
 - Checkout page for products
 - Search by Name
+- filter by name 
 
 
 
