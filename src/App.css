@@ -1,0 +1,38 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+.dropzone {
+  border: 2px dashed #cccccc;
+  padding: 20px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+img {
+  margin-top: 10px;
+  max-width: 100%;
+}
+
+.pdf-preview {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.preview-section {
+  margin-bottom: 20px;
+}
+
+.preview-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.preview-section p {
+  white-space: pre-wrap; /* Preserve whitespace and newlines */
+  text-align: center;
+}
